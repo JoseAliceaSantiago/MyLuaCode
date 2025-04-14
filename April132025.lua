@@ -28,7 +28,7 @@ print(answer);
 print("What is your name\n")
 local name = io.read();
 --If Statements
-if (name=="Newell") then 
+if (name=="Newell") then --[[If name is Newell, an easter egg on line 32]]
     print("GABE NEWELL!")
     else
         print("Hi "..name.."!");
