@@ -11,7 +11,7 @@ local function howdy()
 print("Howday partner!")
 end 
 howdy()
---Simple Math Equations--
+--Simple Math Equation--
 local a = 1;
 local b = 2;
 local c= 7;
